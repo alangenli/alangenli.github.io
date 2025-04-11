@@ -6,53 +6,91 @@
 <!-- wrap all with <html></html> element, provide language attribute-->
 <html lang="en-US">
   
-  <!--container for things that do not appear on page, eg keywords, page description, etc-->
-  <head>
-    <!-- encoding -->
-    <meta charset="utf-8" />
+	<!--container for things that do not appear on page, eg keywords, page description, etc-->
+	<head>
+	
+	<!-- encoding -->
+	<meta charset="utf-8" />
+    	
+	<!-- styles -->
+	<link rel="stylesheet" href="styles.css" />
+
+	<!-- set page width to device width -->
+	<meta name="viewport" content="width=device-width" />
     
-    <!-- set page width to device width -->
-    <meta name="viewport" content="width=device-width" />
+    	<!-- title of page in browser tab -->
+	<title>AGL - home</title>
     
-    <!-- title of page in browser tab -->
-    <title>AGL - home</title>
-    
-    <!-- browser icon -->
-    <link rel="icon" type="image/png" href="images/AGL_favicon.png">
-  </head>
+	<!-- browser icon -->
+	<link rel="icon" type="image/png" href="images/AGL_favicon.png">
+	</head>
 
 
 
   
-  <!--all things that will appear on page-->
-  <body>
-    <img src="images/Cambridge_portrait2.jpg" alt="picture of me in Cambridge with a cow in the background" />
+	<!--all things that will appear on page-->
+	<body>
+	<img src="images/Cambridge_portrait2.jpg" alt="picture of me in Cambridge with a cow in the background" />
     
-    <!-- 4 heading levels: -->
-    <h1>My main title</h1>
-    <h2>My top level heading</h2>
-    <h3>My subheading</h3>
-    <h4>My sub-subheading</h4>
+	<!-- 4 heading levels: -->
+	<h1>Alan Gen Li (b. 1998, Germantown, Maryland)</h1>
 
-    <!-- paragraph of text -->
-    <p>
-      This is a single paragraph with a link to       
-      <!-- create a link (an "anchor") -->
-      <a href="writing.html">writing</a>.
-    </p>
+	<!-- paragraph of text -->
+	<p>
+		currently living in the 14th arrondissement of Paris. interested in everything scientific and artistic.
+	</p>
+	
+	<p>contact:
+	<span class="user">agl2142</span><span class="at-symbol">@</span><span class="domain">columbia.edu</span>
+	<style>
+		.user, .at-symbol, .domain {
+		display: inline;
+		font-family: Courier New;
+		text-decoration: underline;
+		color:DodgerBlue;
+		}
+	</style>
+	</p>
+	
+	<p><br></p>
+	
+	<p>
+		<!-- link (an "anchor") -->
+		<a href="biography.html">biography</a>
+	</p>
 
-    <!-- unordered list -->
-    <ul>
-      <li>list element 1</li>
-      <li>list element 2</li>
-    </ul>
+	<p>
+		<!-- link (an "anchor") -->
+		<a href="cello.html">cello</a>
+	</p>
+
+	<p>
+		<!-- link (an "anchor") -->
+		<a href="CV_info.html">education / work</a>
+	</p>
+
+	<p>
+		<a href="installations.html">installations / misc. creations</a>
+	</p>
+
+	<p>
+		<a href="paintings.html">paintings</a>
+	</p>
+	
+	<p>
+		<a href="photo.html">photography / cyanotypes</a>
+	</p>
+
+	<p>
+		<a href="science.html">science</a>
+	</p>
+
+      	<p>
+		<a href="writing.html">writing</a>
+	</p>
+
+	
+
     
-    <!-- ordered list -->
-    <ol>
-      <li>list element 1</li>
-      <li>list element 2</li>
-    </ol>
-    
-    
-  </body>
+	</body>
 </html>
