@@ -1,3 +1,13 @@
+/* background, image styles, etc */
+body {
+	background-color:Lavender;
+}
+img {
+	max-width: 100%;
+}
+
+
+/* header fonts */
 h1 {
   font-family: Arial, sans-serif;
 }
