@@ -28,45 +28,30 @@
 
 
   
-	<!--all things that will appear on page-->
+	
 	<body>
-	<img src="images/arcueil.jpg" alt="arcueil picture" />
-    
-	<!-- 4 heading levels: -->
-	<h1>Alan Gen Li (b. 1998, Germantown, Maryland)</h1>
-	
-	<p>contact:
-	<span class="user">alan.g.li</span><span class="at-symbol">@</span><span class="domain">columbia.edu</span>
-	<style>
-		.user, .at-symbol, .domain {
-		display: inline;
-		font-family: Arial;
-		text-decoration: underline;
-		color:DodgerBlue;
-		}
-	</style>
-	</p>
-	
-	<p><br></p>
-
-	<p><a href="biography.html">biography</a></p>
-
-	<p><a href="CV_info.html">CV</a></p>
-
-	<p><br></p>
-
-	<p><a href="cello.html">cello</a></p>
-
-	<p><a href="installations.html">installations / misc. creations</a></p>
-
-	<p><a href="paintings.html">paintings</a></p>
-	
-	<p><a href="photo.html">photography / cyanotypes</a></p>
-
-	<p><a href="science.html">science / publications list</a></p>
-
-      	<p><a href="writing.html">writing</a></p>
-
-    
+	<!--VERTICAL NAVIGATION-->
+	<ul class="menu">
+  		<li><a class="active" href="">home</a></li>
+		<li><a href="biography.html">biography</a></li>
+		<li><a href="CV_info.html">CV</a></li>
+		<li><br></li>
+		<li><a href="cello.html">cello</a></li>
+		<li><a href="installations.html">installations / misc.</a></li>
+		<li><a href="paintings.html">paintings</a></li>
+  		<div class="dropdown-head">
+		<button class="dropdown-btn">photography</button>
+		<ul class="dropdown-content">
+    			<li><a href="digital_photo.html">digital photography</a></li>
+			<li><a href="cyanotype.html">cyanotypes</a></li>
+		</ul>
+		</div>
+		<li><a href="science.html">science</a></li>
+	      	<li><a href="writing.html">writing</a></li>
+	</ul>
+	<div class="main">
+		<img src="images/arcueil.jpg" alt="arcueil picture" />
+		<h1>Alan Gen Li (b. 1998, Germantown, Maryland)</h1>
+	</div>
 	</body>
 </html>

@@ -7,31 +7,110 @@ img {
 }
 
 
+.main {
+	margin-left:25%;
+}
+
+
+
 /* header fonts */
 h1 {
-  font-family: Arial, sans-serif;
+	font-family: Arial, sans-serif;
 }
 
 h2 {
-  font-family: Arial, sans-serif;
+	font-family: Arial, sans-serif;
 }
 
 h3 {
-  font-family: Arial, sans-serif;
+	font-family: Arial, sans-serif;
 }
 
 h4 {
-  font-family: Arial, sans-serif;
+	font-family: Arial, sans-serif;
 }
 
 p {
-  font-family: Arial, sans-serif;
+	font-family: Arial, sans-serif;
 }
 
 ul {
-  font-family: Arial, sans-serif;
+	font-family: Arial, sans-serif;
 }
 
 ol {
-  font-family: Arial, sans-serif;
+	font-family: Arial, sans-serif;
 }
+
+.menu {
+	position: fixed;
+	top: 0;
+	width: 15%;
+	height: 100%;
+	padding: 0;
+	margin: 0;
+	list-style-type: none;
+}
+
+.menu li {
+	margin: 10px 0;
+}
+.menu li a {
+	text-decoration: none;
+	font-size: 16px;
+	color: inherit;
+}
+
+.menu li a.active {
+	font-weight: bold;
+	text-decoration: none;
+}
+
+/* Style the sidenav links and the dropdown button */
+
+.dropdown-btn {
+	font-family: Arial, sans-serif;
+	font-size: 16px;
+	text-decoration: none;
+	color: inherit;
+	padding: 0;
+	margin: 0;
+	width: 100%;
+	text-align: left;
+	cursor: pointer;
+	outline: none;
+	border: none;
+  	background: none;
+	display: block;
+}
+
+
+/* Dropdown container (hidden by default).*/
+.dropdown-content {
+	display: none;
+	padding-left: 10px;
+}
+
+.dropdown-content a {
+	text-decoration: none;
+	font-size: 16px;
+	color: inherit;
+}
+
+.dropdown-content li {
+	list-style-type: none;
+	margin: 10px 0;
+	
+}
+
+.dropdown-head {
+	font-family: Arial, sans-serif;
+	font-size: 16px;
+	text-decoration: none;
+	color: inherit;
+	position: relative;
+	display: inline-block;
+}
+/* Show the dropdown menu on hover */
+.dropdown-head:hover .dropdown-content {display: block;}
+
