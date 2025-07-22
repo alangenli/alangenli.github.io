@@ -1,0 +1,55 @@
+NOTES FOR A SPEECH ON SUPERPOSITION
+
+There is no need to understand your life.
+
+You can be perfectly happy going to work 8 or 9 hours a day, 5 days a week, going out with your work colleagues, joining a class, going to the gym, eating well, having a dog, doing picnics with friends, going to techno parties with friends, having sex (perhaps with friends), and planning "getaways" every 3 months. To keep things interesting, you will be able to drop by funerals and weddings and have children. For at least 20 years, you can then be utterly drained of free will and age gracefully under the rhythms of necessity. At some point you can have a moment of clarity, an existential crisis, but at the end of the day it does not really matter; after all, you have made a bucket list and you can finally go on that cruise to the Galapagos Islands. You can live by the sea; feel proud of your offspring; reminisce about youth. 
+
+You feel happy in your final days, because you know you lived life to the fullest. You didn't "waste time" trying to understand it. 
+
+Well, I am going to waste some time today. 
+
+You might remember in school, maybe in university, learning about the "Fourier series". It is the most beautiful piece of mathematics that exists. It shows that any arbitrary signal can be decomposed into the sum, a superposition, of pure sinusoidal waves. 
+
+Any time you play a note on a musical instrument you are really hearing the superposition of hundreds of pure tones vibrating at the same time --- the harmonics. And it is the strength of these harmonics that determines the unique timbre of any instrument. We have at our disposal an infinity of notes, an infinity of sounds.
+
+There is a wonderful generality to this idea. Our impressions of the world, of nature or of art --- a chance effect of sunlight in the park, a Kupka painting, Ravel's quartet --- may be similarly disaggregated, so we can identify the key processes acting within us. 
+
+Superposition is a fundamental part of the world. If we are to understand the world, we will have to deal with superposition. 
+
+Consider the hydrogen atom: one proton, one electron. It simply does not please nature for the electron to follow its electromagnetic tendencies and spiral into the proton. Instead, because of the uncertainty principle, the electron cannot be localised and at rest at the same time. And because of the properties of its wave function, there are a discrete number of energy levels the electron can be in. 
+
+Similar to how a violin string vibrating between two fixed points produces a set of pure harmonics, an electron's orbital dynamics for a range of energies produces a set of discrete configurations. If we were to superimpose the electron in multiple energy levels, the wave function gains a richer timbre.
+
+Understanding the superpositions in our life has a rich literary history. Lord Henry Wotton, one of Oscar Wilde's most famous characters, finds a great deal of pleasure in vivisecting ourselves --- decomposing our lives into their constituent parts. He finds the divide between subjectivity and objectivity really quite primitive. Our emotions are governed by specific events in our lives oscillating in superposition with each other, and so the driest summary of our life's events is also the most emotional. 
+
+At all moments we carry with us everything that we ever were. To describe the harmonics encoded in your being is the act of definition, it is to realise your existence. 
+
+There is no better example of this than in Episode 8 of Ulysses. Leopold Bloom is sitting in Davy Byrne's pub with his sandwich of gorgonzola and burgundy wine and in the golden afternoon sun, flies buzzing all around, he thinks of his wife Molly:
+
+"
+Hidden under wild ferns on Howth below us bay sleeping: sky. No sound. The sky. The bay purple by the Lion’s head. Green by Drumleck. Yellowgreen towards Sutton. Fields of undersea, the lines faint brown in grass, buried cities. Pillowed on my coat she had her hair, earwigs in the heather scrub my hand under her nape, you’ll toss me all. O wonder! Coolsoft with ointments her hand touched me, caressed: her eyes upon me did not turn away. Ravished over her I lay, full lips full open, kissed her mouth. Yum. Softly she gave me in my mouth the seedcake warm and chewed. Mawkish pulp her mouth had mumbled sweetsour of her spittle. Joy: I ate it: joy. Young life, her lips that gave me pouting. Soft warm sticky gumjelly lips. Flowers her eyes were, take me, willing eyes.
+"
+
+His moment in the pub consists of:
+- The taste of wine and cheese 
+- Sunlight
+- Flies buzzing
+- The relative quiet
+
+It recalls:
+- The taste of Molly and her seedcake
+- The purple bay surrounding the cliffs
+- Earwigs in the grass
+- The silence on Howth Head
+
+And obviously within this are all the memories of Molly and their romance. Not only does he have a mini-epiphany in the pub, he realises exactly why he feels it. And that is the meaning of life. 
+
+Proust did the same with his madeleine (which, by the way, was originally a slice of toast) --- and he writes La Recherche to disaggregate the beautiful vibrating superposition. Charles Swann hears the Vinteuil Sonata completely by chance at a soirée, after his drama with Odette, and has a similar moment, which I have translated as the following:
+
+"
+But suddenly it was like she had entered, and this apparition struck him so violently that he had to hold his hand to his heart. What happened was that the violin had climbed to some high notes where it stayed as if waiting for something, the anticipation building while he followed the notes in his excited state, waiting to see some object which was coming towards him, trying desperately to hold on until this thing arrived, to welcome it before he dropped away, to keep open a little bit longer, with all his remaining energy, the escape route, like how we keep open a door before it closes. And before Swann had the time to understand, to say to himself ``It's that little phrase from the Vinteuil sonata, don't listen to it!'' all the memories from the time when Odette was in love with him, which until now he had managed to keep hidden in the depths of his being, were re-awoken, tricked by this sudden ray from the days of romance which they thought had come back, rushing upwards to sing hopelessly and mercilessly for his miserable current state the forgotten refrains of happiness. 
+"
+
+It is not just the musicality of the phrase, but everything in Swann's life has contributed to the sensation. A piece of music he found so charming in his younger days finally became the soundtrack to the greatest and last love of his life. 
+
+Unfortunately I am not paid to think about any of this and I don't think that will change anytime soon. 
